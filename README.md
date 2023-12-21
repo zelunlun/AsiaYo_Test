@@ -2,7 +2,7 @@
 ## **第一種方式** 
 * ### 先執行 `python test.py` 在本地建立Server
 
-* ### 打開瀏覽器, 在網址輸入'http://127.0.0.1:5000/?source=USD&target=JPY&amount=$1,525'
+* ### 打開瀏覽器, 在網址輸入`http://127.0.0.1:5000/?source=USD&target=JPY&amount=$1,525`
 
 ## **第二種方式** 
 * ### 先執行 `python test.py` 在本地建立Server
